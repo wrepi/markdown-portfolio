@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. running
+2. diving
+3. cycling
+4. soccer
